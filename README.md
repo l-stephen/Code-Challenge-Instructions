@@ -8,8 +8,6 @@
 4. Read the instructions and code!
 
 5. When done with the challenge 
-  1. git add .
-  2. git commit -m "submission for challenge"
-  3. git push origin main
+  1. Zip your files
+  2. Send me your zipped file on slack
   
-6. Copy the url for your repo and send it to me on slack 
